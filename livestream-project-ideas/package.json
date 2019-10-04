@@ -1,0 +1,17 @@
+{
+  "name": "livesteam-project-ideas",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "app": "node app",
+    "start": "nodemon app"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@feathersjs/express": "^4.3.4",
+    "@feathersjs/feathers": "^4.3.4",
+    "@feathersjs/socketio": "^4.3.4",
+    "moment": "^2.24.0",
+    "nodemon": "^1.19.3"
+  }
+}
